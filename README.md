@@ -6,7 +6,6 @@
 
 
 
-<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Background.JPG>
 ![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Background.JPG)
 
 
