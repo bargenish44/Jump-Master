@@ -8,6 +8,14 @@
 
 ![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Background.JPG)
 
+Level up example :
+![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/leveluP.JPG)
+
+Level 2 example : 
+![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/level%201.JPG)
+
+Last scene example :
+![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Lastscene.JPG)
 
 We created a game based on one of the games taught on Unity courses.  
 The game is 3D when the player is supposed to use the space bar to jump over obstacles that been creating each time period and been destroyed when they come out of frame.  
@@ -54,7 +62,7 @@ This code moves the background and rotates the rock
 
 
 
-This code spwans new obstacles
+This code spwan new obstacles at random heights and times 
 
 <img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/SpawnManager.JPG">
 
