@@ -7,7 +7,7 @@
 
 
 <img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Background.JPG>
-
+![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Background.JPG)
 
 
 We created a game based on one of the games taught on Unity courses.  
