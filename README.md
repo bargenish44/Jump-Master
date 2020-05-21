@@ -6,16 +6,16 @@
 
 
 
-![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Background.JPG width=400)
+![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Background.JPG)
 
 Level up example :
-![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/leveluP.JPG width=400)
+![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/leveluP.JPG)
 
 Level 2 example : 
-![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/level%201.JPG width=400)
+![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/level%201.JPG)
 
 Last scene example :
-![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Lastscene.JPG width=400)
+![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Lastscene.JPG)
 
 We created a game based on one of the games taught on Unity courses.  
 The game is 3D when the player is supposed to use the space bar to jump over obstacles that been creating each time period and been destroyed when they come out of frame.  
@@ -33,52 +33,52 @@ The game is over when all the stages are completed.
 
 This piece of code shows how the animation and sound are activated when the player jumps..
 
-![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/KeyDown.JPG width=400)
+![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/KeyDown.JPG)
 
 
 
 
 This code shows the animation and sound is activated when the player hits the obstacles.
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/explosion%20animation.JPG" width=400>
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/explosion%20animation.JPG">
 
 
 
 This code prevents the player from double jumping
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/Prevents%20double%20jumping.JPG" width=400>
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/Prevents%20double%20jumping.JPG">
 
 
 
 This code returns the background back
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/RepeatBackground.JPG" width=400>
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/RepeatBackground.JPG">
 
 
 
 This code moves the background and rotates the rock
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/Moves%20background%20and%20rotates%20rock.JPG" width=400>
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/Moves%20background%20and%20rotates%20rock.JPG">
 
 
 
 This code spwan new obstacles at random heights and times 
 
-<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/SpawnManager.JPG" width=400>
+<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/SpawnManager.JPG">
 
 This code is responsible for moving to the next level or replaying the current level
-<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/LevelUp%20%26%26%20play%20again.JPG" width=400>
+<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/LevelUp%20%26%26%20play%20again.JPG">
 
 This code calculates the current level time, is responsible for updating the current level's graphics, and speeds up the speed of the obstacles.
 It is called at each level (new or repeating)
-<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/TimerStart.JPG" width=400>
+<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/TimerStart.JPG">
 
 This script updates the remaining time for the player and displays that time.
 In case the time runs out he waits for 2 seconds and moves the player to the next level.
-<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/timerUpdate.JPG" width=400>
+<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/timerUpdate.JPG">
 
 Player rigidbody :
-<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Physics.JPG" width=400>
+<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Physics.JPG">
 
 ## Audio
 
