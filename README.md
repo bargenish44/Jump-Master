@@ -16,13 +16,17 @@ We added colliders with a trigger to the player and object of the barrier when t
 We have added a boolean variable that prevents the player from making a double jump.  
 We added a rolling stone behind the player, but it can't really hurt us.  
 The player actually not moving when only the background gets forward and comes back and we get a real sense of running so we can continue to play as much as we can without the background ends.
+The game has 4 stages, each stage harder than the other.
+To get through the current stage, you have to survive until the timer is over.
+If you do not survive, you start from the current stage.
+The game is over when all the stages are completed. 
 
 
 
 This piece of code shows how the animation and sound are activated when the player jumps..
 
+![alt text](https://github.com/bargenish44/Jump-Master/blob/master/Pictures/KeyDown.JPG)
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/player%20animation.JPG">
 
 
 
@@ -52,7 +56,7 @@ This code moves the background and rotates the rock
 
 This code spwans new obstacles
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/SpawnManager.JPG">
+<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/SpawnManager.JPG">
 
 ## Audio
 
