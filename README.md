@@ -66,6 +66,18 @@ This code spwan new obstacles at random heights and times
 
 <img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/SpawnManager.JPG">
 
+This code is responsible for moving to the next level or replaying the current level
+<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/LevelUp%20%26%26%20play%20again.JPG">
+
+This code calculates the current level time, is responsible for updating the current level's graphics, and speeds up the speed of the obstacles.
+It is called at each level (new or repeating)
+<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/TimerStart.JPG">
+
+This script updates the remaining time for the player and displays that time.
+In case the time runs out he waits for 2 seconds and moves the player to the next level.
+<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/timerUpdate.JPG">
+
+
 ## Audio
 
 The game has 3 types of audio components:
