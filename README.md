@@ -6,7 +6,7 @@
 
 
 
-<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Background.JPG?raw=true>
+<img src="https://github.com/bargenish44/Jump-Master/blob/master/Pictures/Background.JPG>
 
 
 
